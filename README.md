@@ -1,2 +1,2 @@
 # Resume
-It's all about me you want to know.
+It's all about me what you want to know.
